@@ -25,7 +25,7 @@ Churn (when customers stop using a service) is one of the biggest challenges for
 
 - Power BI for dashboards
 
-("C:\Users\Haribaskar\OneDrive\Pictures\Screenshots\Screenshot 2025-08-27 195250.png")
+(images/Screenshot 2025-08-27 195250.png)
 
 ## Dataset ##
 
