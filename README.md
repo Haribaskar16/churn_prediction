@@ -43,25 +43,32 @@ Churn (when customers stop using a service) is one of the biggest challenges for
 
 ## Analysis & Insights ##
 
-1. Tenure Analysis
+📊 Churn Rate Analysis:
 
-- 0–12 months customers → Highest churn risk
+1. By Contract Type:
+   Month-to-month      : 42.7%
+   One year            : 11.3%
+   Two year            : 2.8%
 
-- 13–36 months customers → Moderate churn
+2. By Payment Method:
+   Bank transfer (automatic): 16.7%
+   Credit card (automatic)  : 15.2%
+   Electronic check         : 45.3%
+   Mailed check             : 19.1%
 
-- 37+ months customers → Lowest churn (loyal customers)
+3. By Internet Service:
+   DSL            : 19.0%
+   Fiber optic    : 41.9%
+   No             : 7.4%
 
-2. Monthly Charges
+🚨 High-Risk Customer Segments:
+   1. Month-to-month contract customers
+   2. Electronic check payment customers
 
-- Customers with higher monthly charges are more likely to churn
-
-- Strategies: offer discounts, bundled packages, loyalty rewards
-
-3. Churn Breakdown
-
-- Most churners are on month-to-month contracts
-
-- Electronic check users churn more compared to auto-payment methods
+💡 Model Recommendations:
+   • Focus retention efforts on: Month-to-month contract customers
+   • Best model for deployment: Logistic Regression
+   • Model accuracy: 84.5%
 
 ## Advanced Improvements ##
 
