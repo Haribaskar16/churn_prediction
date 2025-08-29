@@ -17,7 +17,7 @@ Churn (when customers stop using a service) is one of the biggest challenges for
 
 - Python (Pandas, NumPy, Matplotlib, Seaborn)
 
-![Python](images/Screenshot%202025-08-27%20195250.png)
+<img src="images/screenshot_195647_copy.png" alt="charts" width="400"/>
 
 - Jupyter / Google Colab for analysis
 
